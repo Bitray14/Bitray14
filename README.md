@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Bitray14
-- 👀 I’m interested in cloud learning
-- 🌱 I’m currently learning aws, networking,python
-- 💞️ I’m looking to collaborate on 
-- 📫 You can reach me at my gmail elijah.serdan09@gmail.com
+- 👋 Hi, I'm Elijah 
+- 👀 I’m interested in cloud learning and making applications 
+- 🌱 I’m currently learning at the same time IT Programmer of Company
+- 💞️ I’m looking to collaborate on working in vb.net and other Languages
+- 📫 You can reach me at my gmail elijah.serdan09@gmail.com if you wanted to collaborate
+Thank you for stopping by!
+
 
 <!---
 Bitray14/Bitray14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
